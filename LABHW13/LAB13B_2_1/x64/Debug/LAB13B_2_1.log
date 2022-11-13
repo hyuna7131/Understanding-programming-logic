@@ -1,0 +1,3 @@
+﻿  LAB13B_2_1.c
+  LAB13B_2_1.vcxproj -> C:\Users\user\Desktop\동덕여대2022-1학기\프논이\LABHW13\x64\Debug\LAB13B_2_1.exe
+C:\Users\user\Desktop\동덕여대2022-1학기\프논이\LABHW13\LAB13B_2_1\LAB13B_2_1.c(9): warning C6031: 반환 값이 무시되었습니다. 'scanf'.
