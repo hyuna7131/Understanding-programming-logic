@@ -1,2 +1,0 @@
-C:\Users\user\Desktop\동덕여대2022-1학기\프논이\LABHW13\x64\Debug\LAB13B_2_1.exe.lastcodeanalysissucceeded
-C:\Users\user\Desktop\동덕여대2022-1학기\프논이\LABHW13\LAB13B_2_1\x64\Debug\NativeCodeAnalysis.read.1.tlog
